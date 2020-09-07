@@ -1,0 +1,33 @@
+header{
+text-align: center;
+color: white;
+font-size: 30px;
+padding: 20px;
+background-color:#3bc2be
+}
+footer{
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  padding: 20px;
+  background-color:#3bc2be
+}
+section{
+display: block;
+border: 3px solid red;
+margin: 20px;
+padding: 50px;
+}
+aside{
+display: block;
+border: 3px solid red;
+margin: 20px;
+padding: 50px;
+ background-color: #f09d33
+}
+nav{
+display: block;
+border: 3px solid red;
+margin: 20px;
+padding: 50px;
+}
