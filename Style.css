@@ -37,5 +37,26 @@ height:  150px;
 td{
   padding: 20px;
   background-color: white;
+}
+.theme_couleur_rouge {
+  height: 10px;
+  width: 10px;
+  background-color: #da2964;
+  border: 1px solid #ffffff;
+  display: inline-block;
+}
+
+.theme_couleur_orange {
+  height: 10px;
+  width: 10px;
+  background-color: #cc5500;
+  border: 1px solid #ffffff;
+  display: inline-block;
 
 }
+.theme_couleur_cyan {
+  height: 10px;
+  width: 10px;
+  background-color: #3bc2be;
+  border: 1px solid #ffffff;
+  display: inline-block;
